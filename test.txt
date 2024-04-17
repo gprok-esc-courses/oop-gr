@@ -1,0 +1,5 @@
+Hello WorldHello World!!!!
+Hello World!!!! 
+Hello World, buffered
+Hello World, by print writer
+Hello World, by print writer / DECORATOR PATTERN
