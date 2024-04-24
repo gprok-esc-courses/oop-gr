@@ -30,7 +30,7 @@ public class RiddleReader {
      */
     public JSONObject readAPI() {
         try {
-            URL url = new URL("https://riddles-api.vercel.app/random4");
+            URL url = new URL("https://riddles-api.vercel.app/random");
             InputStreamReader is = new InputStreamReader(url.openStream());
             JSONParser parser = new JSONParser();
             JSONObject obj = (JSONObject) parser.parse(is);

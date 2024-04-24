@@ -52,6 +52,7 @@ public class Game {
     public String getNextQuestion() {
         if(!gameOver()) {
             Riddle riddle = riddles.get(currentRiddle);
+            System.out.println(riddle);
             return riddle.getQuestion();
         }
         else {

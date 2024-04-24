@@ -9,3 +9,17 @@ Wed Apr 17 11:42:49 EEST 2024, DBConnection, Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server., Cannot connect to the Database
 Wed Apr 17 11:42:50 EEST 2024, RiddleReader, https://riddles-api.vercel.app/random4, Cannot read from API
+Wed Apr 24 10:58:12 EEST 2024, DBConnection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server., Cannot connect to the Database
+Wed Apr 24 10:58:14 EEST 2024, RiddleReader, https://riddles-api.vercel.app/random4, Cannot read from API
+Wed Apr 24 10:58:57 EEST 2024, DBConnection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server., Cannot connect to the Database
+Wed Apr 24 11:00:40 EEST 2024, DBConnection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server., Cannot connect to the Database
+Wed Apr 24 11:01:17 EEST 2024, DBConnection, Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server., Cannot connect to the Database
+Wed Apr 24 11:16:25 EEST 2024, DBConnection, Unknown database 'java_riddlesx', Cannot connect to the Database

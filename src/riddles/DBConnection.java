@@ -29,7 +29,7 @@ public class DBConnection {
     public void connect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/java_riddlesX",
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/java_riddles",
                     "test", "test");
         } catch (ClassNotFoundException e) {
             errorOccur(e, "DBMS Driver not found");
